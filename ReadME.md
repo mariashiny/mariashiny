@@ -1,6 +1,1 @@
-# Bypassing Machine Learning Malware Detectors
-
-## Credits
-
-Daniel Geng 
-Rishi Veerapaneni 
+# Chapter 10 Best Practices for Machine Learning and Feature Engineering
