@@ -1,10 +1,9 @@
-# Chapter 2: Phishing Domain Detection 
+# Botnet Detection with Machine Learning
 
-* Shuffle.py
-* PhishingDetectionLogisticRegression.py
-* PhishingDetectionDecisionTrees.py
-* SpamDetection_NLTK.py
 
-## Credits:
+## Credits
 
-Ekaterina Kochmar https://cambridgespark.com 
+Himadri Mishra
+Kartik Manchanda
+Nagabhushan 
+Jubins Tushar and Balaji
