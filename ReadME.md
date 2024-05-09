@@ -1,9 +1,6 @@
-# Botnet Detection with Machine Learning
-
+# Chapter 6 Machine Learning in Anomaly Detection Systems 
 
 ## Credits
 
-Himadri Mishra
-Kartik Manchanda
-Nagabhushan 
-Jubins Tushar and Balaji
+prabhant 
+Network Anomaly Detection
