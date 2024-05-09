@@ -1,6 +1,6 @@
-# Chapter 6 Machine Learning in Anomaly Detection Systems 
+
+# Evading Intrusion Detection Systems
 
 ## Credits
 
-prabhant 
-Network Anomaly Detection
+See Further readings section
