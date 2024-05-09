@@ -1,6 +1,6 @@
-
-# Evading Intrusion Detection Systems
+# Bypassing Machine Learning Malware Detectors
 
 ## Credits
 
-See Further readings section
+Daniel Geng 
+Rishi Veerapaneni 
